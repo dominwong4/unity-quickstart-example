@@ -8,8 +8,8 @@ public class Back4appConnectionSample : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		ParseObject gameScore = new ParseObject ("GameSocre");
-		gameScore["score"] = 1337;
-		gameScore["playerName"] = "Sean Plott";
+		gameScore["score"] = 9999;
+		gameScore["playerName"] = "Unity3d Latest Parse Version";
 		Task saveTask = gameScore.SaveAsync();
 	}
 
