@@ -83,14 +83,14 @@
  <Reference Include="Parse.Unity">
  <HintPath>/Users/wonghoyin/Desktop/SiliconValley/Back4app/New Tutorial 2017/Unity3d/unity-quickstart-example/Assets/Back4app/Parse.Unity.dll</HintPath>
  </Reference>
+ <Reference Include="Parse.Unity">
+ <HintPath>/Users/wonghoyin/Desktop/SiliconValley/Back4app/New Tutorial 2017/Unity3d/unity-quickstart-example/Assets/Back4app/ParseDLLForBeforeUnity3d_5.6/Parse.Unity.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Users/wonghoyin/Library/Unity/cache/packages/packages.unity.com/com.unity.analytics@1.0.1/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Purchasing">
  <HintPath>/Users/wonghoyin/Library/Unity/cache/packages/packages.unity.com/com.unity.purchasing@1.0.1/UnityEngine.Purchasing.dll</HintPath>
- </Reference>
- <Reference Include="Parsee.Unity">
- <HintPath>/Users/wonghoyin/Desktop/SiliconValley/Back4app/New Tutorial 2017/Unity3d/unity-quickstart-example/Assets/Back4app/Parsee.Unity.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
